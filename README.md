@@ -24,10 +24,14 @@ Run the Java program and observe how it categorizes different age values. Modify
 - **Invalid Age Handling:** The program checks for negative age values and outputs "Invalid age" if detected.
 - **Age Categories:** The classification includes five categories ranging from "baby" to "old".
 
-## Follow Me ##
-If you found this project helpful and would like to stay updated with my latest work, feel free to follow me on social media:
+## Follow Me
 
-GitHub: github.com/uygarcode
-LinkedIn: linkedin.com/in/uygarkaan
-Instagram: instagram.com/uygarcode
-Thank you for your support!
+#### Hello! I'm **Uygarcode**, a passionate software developer constantly exploring new innovations in technology and coding. I would be thrilled to have you join me on my coding journey!
+
+#### You can find my coding projects, tech news, and personal updates on my social media accounts. Stay updated with my latest projects and follow the latest trends in the tech world through the links below: 
+
+- #### **GitHub:** [github.com/uygarcode](https://github.com/uygarcode) - Explore my code projects, open-source contributions, and development journey!
+- #### **LinkedIn:** [linkedin.com/in/uygarkaan](https://linkedin.com/in/uygarkaan) - Connect with me professionally and follow my career development.
+- #### **Instagram:** [instagram.com/uygarcode](https://instagram.com/uygarcode) - Check out my personal updates, tech news, and more!
+- #### **Discord:** [discord.gg/8v6SW9gnEt](https://discord.gg/8v6SW9gnEt) - Join our software community and engage in coding discussions!
+
