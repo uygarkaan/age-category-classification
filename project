@@ -1,0 +1,36 @@
+public class Main {
+    public static void main(String[] args) {
+        int age = 20; // You can change this value to test different ages
+
+        /*
+        The age categories should be as follows:
+        age < 0 years: "Invalid age"
+        0 - 1 years: "baby"
+        2 - 12 years: "child"
+        13 - 17 years: "teenager"
+        18 - 64 years: "adult"
+        65 and above: "old"
+         */
+
+        String ageCategory1 = "baby";
+        String ageCategory2 = "child";
+        String ageCategory3 = "teenager";
+        String ageCategory4 = "adult";
+        String ageCategory5 = "old";
+        String errorMessage = "Invalid age";
+
+        if (age < 0) {
+            System.out.println(errorMessage);
+        } else if (age >= 0 && age <= 1) {
+            System.out.println(ageCategory1);
+        } else if (age >= 2 && age <= 12) {
+            System.out.println(ageCategory2);
+        } else if (age >= 13 && age <= 17) {
+            System.out.println(ageCategory3);
+        } else if (age >= 18 && age <= 64) {
+            System.out.println(ageCategory4);
+        } else {
+            System.out.println(ageCategory5);
+        }
+    }
+}
